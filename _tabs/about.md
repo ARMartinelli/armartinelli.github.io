@@ -5,7 +5,6 @@ order: 4
 ---
 
 I'm Alberto Riccardo Martinelli, Ph.D. in Computer Science and a Full-Stack developer based in Turin, Italy.
-Other than tech, my other passions are literature, cinema and philosophy.
 
 # Ph.D. thesis
 
