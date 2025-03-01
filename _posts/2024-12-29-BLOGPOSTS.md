@@ -9,5 +9,6 @@ Here is a list of blog posts that I found interesting. I will update the list wh
 
 - [Teach Yourself Programming in Ten Years, by Peter Norvig](https://norvig.com/21-days.html)
 - [Command-line Tools can be 235x Faster than your Hadoop Cluster, by Adam Drake](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
+- [Why We Can't Have Nice Software, by Andrew Kelley](https://andrewkelley.me/post/why-we-cant-have-nice-software.html)
 - [Master Foo and the Ten Thousand Lines, by Eric S. Raymond](http://www.catb.org/~esr/writings/unix-koans/ten-thousand.html)
 - [Shut Up And Show Them The Code, by Eric S. Raymond](http://www.catb.org/~esr/writings/shut-up-and-show-them.html)
