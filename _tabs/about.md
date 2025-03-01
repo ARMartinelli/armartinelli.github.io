@@ -12,6 +12,10 @@ My Ph.D. thesis was about CAPIO, a tool for improving the I/O performance of HPC
 
 # Papers
 
+### 2025
+
+- Marco Edoardo Santimaria, Alberto Riccardo Martinelli, Iacopo Colonnelli, Barbara Cantalupo, Massimo Torquati and Marco Aldinucci. “CAPIO-CL: The CAPIO Coordination Language”. In: International Journal of Parallel Progamming 53, 10 (2025). https://doi.org/10.1007/s10766-025-00789-0
+
 ### 2023
 
 - Alberto Riccardo Martinelli, Massimo Torquati, Marco Aldinucci, Iacopo Colonnelli, and Barbara Cantalupo. “CAPIO: a Middleware for Transparent I/O Streaming in Data-Intensive Workflows”. In: 2023 IEEE 30th International Conference on High Performance Computing, Data, and Analytics (HiPC). Goa, India: IEEE, Dec. 2023. doi: 10.1109/HiPC58850.2023.00031
